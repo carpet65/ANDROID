@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CorsoITS</string>
+    <string name="hello">Ciao Mondo!</string>
+    <string name="prova">Prova di una stringa</string>
+    <string name="design">Testo da design</string>
+    <string name="status">Visualizzazione stati a log</string>
+    <string name="btnAction">Azione!</string>
+
+</resources>
